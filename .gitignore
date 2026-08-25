@@ -1,0 +1,6 @@
+.idea/
+workspace.xml
+shelf/
+httpRequests/
+*.iml
+*.log
